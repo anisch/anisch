@@ -1,6 +1,4 @@
-# anisch
-
-## something about me
+# something about me
 ``` kotlin
 val anisch = developer {
     about {
