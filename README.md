@@ -8,7 +8,7 @@ val anisch = developer {
     }
     tech("Kotlin", "Go", "JS", "React")
     links {
-        mastadon = "@anisch@vivaldi.net"
+        mastodon = "@anisch@vivaldi.net"
     }
 }
 ```
